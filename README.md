@@ -24,9 +24,9 @@ My professional interests center around security operations, threat detection, n
   - Splunk SOC Tier 1 Home Lab
   - <a href="#">Windows Event Log Collection
   - <a href="#">Sysmon Log Analysis
-  - <a href="#">Splunked Universal Forwarder Configuration
-  - <a href="#">Failed Login Detection
-  - <a href="#">Powershell Threat Detection
+  - <a href="#">Splunk Universal Forwarder Deployment
+  - <a href="#">Authentication Failure Detection
+  - <a href="#">Suspicious PowerShell Activity Detection
   - <a href="#">Incident Triage & Reporting
 
 - <b>IoT Security & Network Analysis</b>
