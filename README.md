@@ -21,7 +21,7 @@ My professional interests center around security operations, threat detection, n
 <h2>🛡️ Cybersecurity Projects</h2>
 
 - <b>SOC & Threat Detection</b>
-  - Splunk SOC Tier 1 Home Lab
+ - Splunk SOC Tier 1 Home Lab
   - <a href="#">Windows Event Log Collection
   - <a href="#">Sysmon Log Analysis
   - <a href="#">Splunk Universal Forwarder Deployment
