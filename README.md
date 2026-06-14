@@ -30,7 +30,7 @@ My professional interests center around security operations, threat detection, n
   - <a href="#">Incident Triage & Reporting
 
 - <b>IoT Security & Network Analysis</b>
-  - <a href="https://github.com/Vanessaf2/vizio-smart-tv-security-assessment">Vizio Smart TV Security Assessment</a>
+- <a href="https://github.com/Vanessaf2/vizio-smart-tv-security-assessment">Vizio Smart TV Security Assessment</a>
   - <a href="#">SmartCast API Discovery & Enumeration</a>
   - <a href="#">Authentication & Token Analysis</a>
   - <a href="#">Wireshark Packet Capture & Analysis</a>
