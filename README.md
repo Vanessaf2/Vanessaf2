@@ -21,13 +21,13 @@ My professional interests center around security operations, threat detection, n
 <h2>🛡️ Cybersecurity Projects</h2>
 
 - <b>SOC & Threat Detection</b>
-- Splunk SOC Tier 1 Home Lab
-  - <a href="#">Windows Event Log Collection
-  - <a href="#">Sysmon Log Analysis
-  - <a href="#">Splunk Universal Forwarder Deployment
-  - <a href="#">Authentication Failure Detection
-  - <a href="#">Suspicious PowerShell Activity Detection
-  - <a href="#">Incident Triage & Reporting
+- <a href="#">Splunk SOC Tier 1 Home Lab
+  - Windows Event Log Collection
+  - Sysmon Log Analysis
+  - Splunk Universal Forwarder Deployment
+  - Authentication Failure Detection
+  - Suspicious PowerShell Activity Detection
+  - Incident Triage & Reporting
 
 - <b>IoT Security & Network Analysis</b>
 - <a href="https://github.com/Vanessaf2/vizio-smart-tv-security-assessment">Vizio Smart TV Security Assessment</a>
