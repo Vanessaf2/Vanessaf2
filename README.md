@@ -31,21 +31,21 @@ My professional interests center around security operations, threat detection, n
 
 - <b>IoT Security & Network Analysis</b>
 - <a href="https://github.com/Vanessaf2/vizio-smart-tv-security-assessment">Vizio Smart TV Security Assessment</a>
-  - <a href="#">SmartCast API Discovery & Enumeration</a>
-  - <a href="#">Authentication & Token Analysis</a>
-  - <a href="#">Wireshark Packet Capture & Analysis</a>
+  - SmartCast API Discovery & Enumeration</a>
+  - Authentication & Token Analysis</a>
+  - Wireshark Packet Capture & Analysis</a>
 
 - <b>Network Forensics & Traffic Analysis</b>
-  - <a href="#">TCP Three-Way Handshake Investigation</a>
-  - <a href="#">TLSv1.2 Traffic Analysis</a>
-  - <a href="#">Encrypted Traffic Investigation</a>
-  - <a href="#">Network Communication Analysis</a>
+  - TCP Three-Way Handshake Investigation</a>
+  - TLSv1.2 Traffic Analysis</a>
+  - Encrypted Traffic Investigation</a>
+  - Network Communication Analysis</a>
 
 - <b>Vulnerability Assessment</b>
-  - <a href="#">SQL Injection Assessment</a>
-  - <a href="#">DVWA Security Testing</a>
-  - <a href="#">Mutillidae Security Testing</a>
-  - <a href="#">Authentication Bypass Demonstration</a>
+  - SQL Injection Assessment</a>
+  - DVWA Security Testing</a>
+  - Mutillidae Security Testing</a>
+  - Authentication Bypass Demonstration</a>
 
 - <b>Exploit Analysis & Security Research</b>
   - <a href="#">Buffer Overflow Analysis</a>
